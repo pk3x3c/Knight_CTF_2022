@@ -1,4 +1,4 @@
-***TO test the solution pls make directory with a flag.txt file as /home/hacker/flag.txt
+***To test the solution pls make directory with a flag.txt file as /home/hacker/flag.txt***
 
 # Challenge 1
 ##  What's Your Name
