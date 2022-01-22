@@ -1,4 +1,4 @@
-***Use file named "file" for find the flag challenge
+***Use file named "file" for find the flag challenge.
 For rest use traffic.pcapng***
 
 # Robots.txt
