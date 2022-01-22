@@ -1,5 +1,5 @@
-#Challenge 1
-##Keep Calculating
+# Challenge 1
+## Keep Calculating
 
 One of our clients needs a command line tool to do some math tasks. Can you create the tool by following pseudo code ?
 
@@ -11,8 +11,8 @@ One of our clients needs a command line tool to do some math tasks. Can you crea
 
 Flag Format : KCTF{answer_here}
 
-#Challenge 2
-##Time Complexity
+# Challenge 2
+## Time Complexity
 
 Find the time complexity of Algorithms.
 
@@ -24,8 +24,8 @@ Find the time complexity of Algorithms.
 
 Flag Format: KCTF{θ(...)}
 
-#Challenge 3
-##Reverse The Answer
+# Challenge 3
+## Reverse The Answer
 
     Let x = 1
 
@@ -41,8 +41,8 @@ Flag Format: KCTF{θ(...)}
 
 Flag Format : KCTF{answer_here}
 
-#Challenge 4
-##Square Sum
+# Challenge 4
+## Square Sum
 
 Have you ever heard the term "The sum of two squares"?
 
@@ -64,8 +64,8 @@ So write a program & find out the two values of 25000. Conditions are the follow
 
 Flag Format : KCTF{0,1}
 
-#Challenge 5
-##Something In Common
+# Challenge 5
+## Something In Common
 
 Find the GCD of the following numbers and add up the all integers of that GCD and multiply with 1234.
 Number 1: 21525625
@@ -77,8 +77,8 @@ So, the flag will be 7 x 1234 = 8638.
 
 Flag Format: KCTF{8638}
 
-#Challenge 6
-##Find The Number
+# Challenge 6
+## Find The Number
 
 What would be the output if we input 25 in the function that is shown in the flowchart?
 ![image](https://user-images.githubusercontent.com/53575624/150631636-9f034830-ccf7-4d2f-a976-2a53f5c203a7.png)
@@ -94,8 +94,8 @@ Can you run the attached program ?
 
 Flag Format : KCTF{sOmeThingHer3}
 
-#Challenge 8
-##Loop In A Loop
+# Challenge 8
+## Loop In A Loop
 
 We use the file to verify our flags. Can you retrieve it?
 
