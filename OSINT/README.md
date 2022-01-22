@@ -8,4 +8,4 @@ https://www.klook.com/en-SG/blog/money-heist-film-locations/
 
 on searching on google earth got the coordinates
 
-KCTF[40.4442164,-3.6936083}
+KCTF{40.4442164,-3.6936083}
