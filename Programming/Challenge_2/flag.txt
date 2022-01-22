@@ -1,0 +1,1 @@
+Time complexity was linear ans was KCTF{θ(n)}
